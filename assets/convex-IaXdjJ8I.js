@@ -1,0 +1,1 @@
+import{F as e}from"./Logo-ozeiz81D.js";var t=`https://fleet-aardvark-573.eu-west-1.convex.cloud`,n=!!t,r=new e(t);export{n,r as t};
